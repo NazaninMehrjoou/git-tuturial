@@ -1,0 +1,6 @@
+*.doc
+
+# comment in .gitignore
+
+
+temp/
